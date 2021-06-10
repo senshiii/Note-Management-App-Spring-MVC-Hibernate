@@ -11,6 +11,9 @@ Description - A server side rendered application to create, list, update and del
 - Hibernate ORM
 - JDBC
 - MySQL Database
+- Java Server Pages ( JSP )
+- JSTL ( JSP Standard Tag Library )
+- HTML / CSS / Bootstrap
 
 
 #### Steps to Use: 
